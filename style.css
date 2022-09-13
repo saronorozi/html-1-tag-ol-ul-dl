@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(183, 255, 0);
+    display: inline-block;
+    
+}
+.butten{
+    text-align: center;
+    font-size: 50px;
+   
+}
+.img{
+    width: 300px;
+    border: 3px;
+} 
